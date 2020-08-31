@@ -1,9 +1,7 @@
 ### Hi there, I'm Seymur 👋
 
-[![Website](https://img.shields.io/website?label=jafarjabbar.com&style=for-the-badge&url=https%3A%2F%2Fjafarjabbar.com)](https://jafarjabbar.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/JafarJabbar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/JafarJabbar6)
 
-## I'm a Full-stack web developer also amateur mobile developer!
+## I'm a Java backend developer also amateur mobile developer!
 
 
 ## Connect with me:

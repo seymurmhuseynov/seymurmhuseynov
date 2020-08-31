@@ -6,7 +6,7 @@
 ## I'm a Full-stack web developer also amateur mobile developer!
 
 ## Projects:
-[![Zenit](https://img.shields.io/website?label=Zenit&style=for-the-badge&url=https%3A%2F%2FjZenit.az)](https://zenit.az)
+[![ESD](https://img.shields.io/website?label=ESD&style=for-the-badge)]
 [![Makute](https://img.shields.io/website?label=Makute&style=for-the-badge&url=https%3A%2F%2FMakute.az)](https://makute.az)
 [![Muracietler](https://img.shields.io/website?label=Muracietler&style=for-the-badge&url=https%3A%2F%2FMuracietler.banker.az)](http://muracietler.banker.az)<br/>
 [![ERG](https://img.shields.io/website?label=ERG&style=for-the-badge&url=https%3A%2F%2FErg.az)](https://erg.az)

@@ -28,12 +28,13 @@
 
 ### IDE:
 <img align="left" alt="Jet brains" width="26px" src="https://software-sources.co.il/wp-content/uploads/2018/05/JetBrains_logo.png" />
+<img align="left" alt="Jet brains" width="26px" src="https://software-sources.co.il/wp-content/uploads/2018/05/JetBrains_logo.png" />
 <br/>
 <br/>
 
 ### Databases:
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" />
 
 <br/>
 <br/>

@@ -28,7 +28,6 @@
 
 ### IDE:
 <img align="left" alt="Jet brains" width="26px" src="https://software-sources.co.il/wp-content/uploads/2018/05/JetBrains_logo.png" />
-<img align="left" alt="Jet brains" width="26px" src="https://software-sources.co.il/wp-content/uploads/2018/05/JetBrains_logo.png" />
 <br/>
 <br/>
 

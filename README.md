@@ -6,17 +6,8 @@
 ## I'm a Full-stack web developer also amateur mobile developer!
 
 ## Projects:
-[![ESD](https://img.shields.io/website?label=ESD&style=for-the-badge)]
-[![Makute](https://img.shields.io/website?label=Makute&style=for-the-badge&url=https%3A%2F%2FMakute.az)](https://makute.az)
-[![Muracietler](https://img.shields.io/website?label=Muracietler&style=for-the-badge&url=https%3A%2F%2FMuracietler.banker.az)](http://muracietler.banker.az)<br/>
-[![ERG](https://img.shields.io/website?label=ERG&style=for-the-badge&url=https%3A%2F%2FErg.az)](https://erg.az)
-[![PLT](https://img.shields.io/website?label=PLT&style=for-the-badge&url=https%3A%2F%2FPlt.az)](https://plt.az)
-[![Ecofil](https://img.shields.io/website?label=Ecofil&style=for-the-badge&url=https%3A%2F%2FEcofil.az)](https://ecofil.az)<br/>
-[![Run-pizza](https://img.shields.io/website?label=Run-pizza&style=for-the-badge&url=https%3A%2F%2FRun-pizza.ru)](https://run-pizza.ru)
-[![Beru Nomer](https://img.shields.io/website?label=BeruNomer&style=for-the-badge&url=https%3A%2F%2FBerunomer.ru)](https://berunomer.ru)
-[![Nevarneyox](https://img.shields.io/website?label=Nevarneyox&style=for-the-badge&url=https%3A%2F%2FNevarneyox.az)](https://nevarneyox.az)<br/>
-[![Lumun](https://img.shields.io/website?label=Lumun&style=for-the-badge&url=https%3A%2F%2FCsr.lmh.az)](http://csr.lmh.az)
-[![SifarishNomre](https://img.shields.io/website?label=SifarishNomre&style=for-the-badge&url=https%3A%2F%2FSifarisnomre.az)](http://sifarisnomre.az)<br/>
+[![ESD](https://img.shields.io/website?label=ESD)]
+
 
 ## Connect with me:
 
